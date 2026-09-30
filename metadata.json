@@ -1,0 +1,6 @@
+{
+  "name": "AFLIA Staff Management Portal",
+  "description": "Official staff attendance, leave management, and work arrangement portal for Alpine Falcon Life Insurance Agency, Inc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
